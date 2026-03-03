@@ -1,0 +1,3395 @@
+[
+  {
+    "assessment_name": "Verify G+ (Interactive)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-g-interactive/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 36,
+    "test_type": "Cognitive",
+    "description": "Adaptive general ability test combining numerical, verbal, and inductive reasoning."
+  },
+  {
+    "assessment_name": "Verify Interactive - Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-interactive-numerical-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Measures ability to make correct decisions or inferences from numerical data."
+  },
+  {
+    "assessment_name": "Verify Interactive - Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-interactive-verbal-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Assesses ability to evaluate the logic of written information."
+  },
+  {
+    "assessment_name": "Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-interactive-inductive-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 24,
+    "test_type": "Cognitive",
+    "description": "Measures the ability to draw inferences and understand relationships between concepts."
+  },
+  {
+    "assessment_name": "Verify Interactive - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-interactive-deductive-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Evaluates the ability to draw logical conclusions from provided information."
+  },
+  {
+    "assessment_name": "Verify Interactive - Checking",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-interactive-checking/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 8,
+    "test_type": "Cognitive",
+    "description": "Assesses the ability to check and compare information quickly and accurately."
+  },
+  {
+    "assessment_name": "Verify Interactive - Calculation",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-interactive-calculation/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 10,
+    "test_type": "Cognitive",
+    "description": "Tests basic arithmetic and mathematical calculation speed and accuracy."
+  },
+  {
+    "assessment_name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-numerical-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Cognitive",
+    "description": "Non-adaptive numerical reasoning test for graduate and professional roles."
+  },
+  {
+    "assessment_name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-verbal-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 19,
+    "test_type": "Cognitive",
+    "description": "Non-adaptive verbal reasoning test evaluating comprehension and logic of text."
+  },
+  {
+    "assessment_name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-inductive-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 24,
+    "test_type": "Cognitive",
+    "description": "Measures conceptual and analytical thinking through abstract patterns."
+  },
+  {
+    "assessment_name": "Graduate Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/graduate-numerical-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Cognitive",
+    "description": "Numerical reasoning assessment designed for graduate-level recruitment."
+  },
+  {
+    "assessment_name": "Graduate Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/graduate-verbal-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Cognitive",
+    "description": "Verbal reasoning assessment designed for graduate-level recruitment."
+  },
+  {
+    "assessment_name": "Graduate Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/graduate-inductive-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Cognitive",
+    "description": "Inductive reasoning assessment targeting graduate-level candidates."
+  },
+  {
+    "assessment_name": "Graduate Diagrammatic Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/graduate-diagrammatic-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Evaluates logical problem-solving using diagrams and flowcharts."
+  },
+  {
+    "assessment_name": "General Ability Screening",
+    "url": "https://www.shl.com/solutions/products/assessments/general-ability-screening/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Cognitive",
+    "description": "Quick general cognitive ability screen for high-volume hiring."
+  },
+  {
+    "assessment_name": "Numerical Comprehension",
+    "url": "https://www.shl.com/solutions/products/assessments/numerical-comprehension/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 18,
+    "test_type": "Cognitive",
+    "description": "Tests understanding of tables, graphs, and statistical data."
+  },
+  {
+    "assessment_name": "Verbal Comprehension",
+    "url": "https://www.shl.com/solutions/products/assessments/verbal-comprehension/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 18,
+    "test_type": "Cognitive",
+    "description": "Assesses vocabulary, grammar, and reading comprehension."
+  },
+  {
+    "assessment_name": "Abstract Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/abstract-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Measures fluid intelligence through non-verbal pattern recognition."
+  },
+  {
+    "assessment_name": "Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/assessments/mechanical-comprehension/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Tests understanding of basic mechanical and physical principles."
+  },
+  {
+    "assessment_name": "Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/assessments/spatial-reasoning/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Evaluates ability to visualise and manipulate shapes in two and three dimensions."
+  },
+  {
+    "assessment_name": "Critical Reasoning Test Battery - Verbal",
+    "url": "https://www.shl.com/solutions/products/assessments/critical-reasoning-test-battery-verbal/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Cognitive",
+    "description": "Advanced verbal critical reasoning for managerial and professional roles."
+  },
+  {
+    "assessment_name": "Critical Reasoning Test Battery - Numerical",
+    "url": "https://www.shl.com/solutions/products/assessments/critical-reasoning-test-battery-numerical/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Cognitive",
+    "description": "Advanced numerical critical reasoning for managerial and professional roles."
+  },
+  {
+    "assessment_name": "Critical Reasoning Test Battery - Diagrammatic",
+    "url": "https://www.shl.com/solutions/products/assessments/critical-reasoning-test-battery-diagrammatic/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Diagrammatic series testing logical reasoning with abstract shapes."
+  },
+  {
+    "assessment_name": "Work Skills Series - Verbal",
+    "url": "https://www.shl.com/solutions/products/assessments/work-skills-series-verbal/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Cognitive",
+    "description": "Entry-level verbal skills screening for operational roles."
+  },
+  {
+    "assessment_name": "Work Skills Series - Numerical",
+    "url": "https://www.shl.com/solutions/products/assessments/work-skills-series-numerical/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Cognitive",
+    "description": "Entry-level numerical skills screening for operational roles."
+  },
+  {
+    "assessment_name": "Work Skills Series - Checking",
+    "url": "https://www.shl.com/solutions/products/assessments/work-skills-series-checking/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Cognitive",
+    "description": "Entry-level checking speed and accuracy for administrative roles."
+  },
+  {
+    "assessment_name": "Information Processing Speed",
+    "url": "https://www.shl.com/solutions/products/assessments/information-processing-speed/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 5,
+    "test_type": "Cognitive",
+    "description": "Rapid information processing and comparison task."
+  },
+  {
+    "assessment_name": "Calculation Ability",
+    "url": "https://www.shl.com/solutions/products/assessments/calculation-ability/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Cognitive",
+    "description": "Basic arithmetic computation test for clerical and operational roles."
+  },
+  {
+    "assessment_name": "Error Checking",
+    "url": "https://www.shl.com/solutions/products/assessments/error-checking/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Cognitive",
+    "description": "Tests ability to detect errors in data entry and record keeping."
+  },
+  {
+    "assessment_name": "Data Interpretation",
+    "url": "https://www.shl.com/solutions/products/assessments/data-interpretation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 18,
+    "test_type": "Cognitive",
+    "description": "Assesses ability to interpret and draw conclusions from complex data sets."
+  },
+  {
+    "assessment_name": "Logical Analysis",
+    "url": "https://www.shl.com/solutions/products/assessments/logical-analysis/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Cognitive",
+    "description": "Evaluates deductive logic and syllogistic reasoning."
+  },
+  {
+    "assessment_name": "Perceptual Speed",
+    "url": "https://www.shl.com/solutions/products/assessments/perceptual-speed/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 7,
+    "test_type": "Cognitive",
+    "description": "Measures speed and accuracy in comparing and classifying visual information."
+  },
+  {
+    "assessment_name": "Concentration Test",
+    "url": "https://www.shl.com/solutions/products/assessments/concentration-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Cognitive",
+    "description": "Sustained attention and accuracy test for detail-oriented roles."
+  },
+  {
+    "assessment_name": "Number Series",
+    "url": "https://www.shl.com/solutions/products/assessments/number-series/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Cognitive",
+    "description": "Identifies patterns in numerical sequences to test quantitative reasoning."
+  },
+  {
+    "assessment_name": "Figure Classification",
+    "url": "https://www.shl.com/solutions/products/assessments/figure-classification/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Cognitive",
+    "description": "Categorises abstract figures to measure non-verbal reasoning."
+  },
+  {
+    "assessment_name": "Verify Numerical Reasoning (UK Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-numerical-reasoning-uk-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Numerical reasoning with UK-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Verbal Reasoning (UK Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-verbal-reasoning-uk-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Verbal reasoning with UK-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Numerical Reasoning (US Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-numerical-reasoning-us-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Numerical reasoning with US-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Verbal Reasoning (US Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-verbal-reasoning-us-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Verbal reasoning with US-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Numerical Reasoning (Global Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-numerical-reasoning-global-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Numerical reasoning with Global-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Verbal Reasoning (Global Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-verbal-reasoning-global-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Verbal reasoning with Global-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Numerical Reasoning (APAC Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-numerical-reasoning-apac-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Numerical reasoning with APAC-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Verbal Reasoning (APAC Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-verbal-reasoning-apac-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Verbal reasoning with APAC-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Numerical Reasoning (EMEA Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-numerical-reasoning-emea-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Numerical reasoning with EMEA-normed scoring tables."
+  },
+  {
+    "assessment_name": "Verify Verbal Reasoning (EMEA Norms)",
+    "url": "https://www.shl.com/solutions/products/assessments/verify-verbal-reasoning-emea-norms/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 17,
+    "test_type": "Cognitive",
+    "description": "Verbal reasoning with EMEA-normed scoring tables."
+  },
+  {
+    "assessment_name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/assessments/opq32r/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Personality",
+    "description": "Occupational Personality Questionnaire measuring 32 personality characteristics relevant to work performance."
+  },
+  {
+    "assessment_name": "OPQ Universal Competency Report",
+    "url": "https://www.shl.com/solutions/products/assessments/opq-universal-competency-report/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Personality",
+    "description": "Generates competency-based narrative reports from OPQ32r data."
+  },
+  {
+    "assessment_name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/assessments/motivation-questionnaire-mq/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Personality",
+    "description": "Assesses motivational drivers at work across 18 dimensions."
+  },
+  {
+    "assessment_name": "Customer Contact Styles Questionnaire (CCSQ)",
+    "url": "https://www.shl.com/solutions/products/assessments/customer-contact-styles-questionnaire-ccsq/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Personality",
+    "description": "Personality assessment tailored for customer-facing roles."
+  },
+  {
+    "assessment_name": "Dependability & Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/assessments/dependability-safety-instrument-dsi/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Personality",
+    "description": "Predicts dependable and safety-conscious workplace behaviour."
+  },
+  {
+    "assessment_name": "Sales Personality Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/sales-personality-questionnaire/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Personality",
+    "description": "Personality assessment for sales effectiveness prediction."
+  },
+  {
+    "assessment_name": "Team Impact Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/team-impact-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Personality",
+    "description": "Measures personality factors that influence team dynamics."
+  },
+  {
+    "assessment_name": "Leadership Impact Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/leadership-impact-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Personality",
+    "description": "Personality-based prediction of leadership effectiveness."
+  },
+  {
+    "assessment_name": "Risk Assessment Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/risk-assessment-questionnaire/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Personality",
+    "description": "Identifies counterproductive work behaviour indicators."
+  },
+  {
+    "assessment_name": "Emotional Intelligence Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/emotional-intelligence-questionnaire/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Personality",
+    "description": "Self-report measure of trait emotional intelligence at work."
+  },
+  {
+    "assessment_name": "Resilience Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/resilience-questionnaire/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Personality",
+    "description": "Assesses stress tolerance, adaptability, and recovery capacity."
+  },
+  {
+    "assessment_name": "Innovation Potential Indicator",
+    "url": "https://www.shl.com/solutions/products/assessments/innovation-potential-indicator/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Personality",
+    "description": "Predicts creative thinking and openness to novel approaches."
+  },
+  {
+    "assessment_name": "Cultural Fit Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/cultural-fit-questionnaire/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Personality",
+    "description": "Measures alignment between individual and organisational values."
+  },
+  {
+    "assessment_name": "Integrity Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/integrity-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Personality",
+    "description": "Screens for honesty and ethical standards in workplace behaviour."
+  },
+  {
+    "assessment_name": "SOSIE 2nd Generation",
+    "url": "https://www.shl.com/solutions/products/assessments/sosie-2nd-generation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Personality",
+    "description": "Comprehensive personality and values inventory for recruitment."
+  },
+  {
+    "assessment_name": "Wellbeing Questionnaire",
+    "url": "https://www.shl.com/solutions/products/assessments/wellbeing-questionnaire/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Personality",
+    "description": "Assessment of workplace wellbeing and psychological health indicators."
+  },
+  {
+    "assessment_name": "Work Styles Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/work-styles-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Personality",
+    "description": "Evaluates preferred work patterns, pace, and collaboration styles."
+  },
+  {
+    "assessment_name": "Agile Mindset Indicator",
+    "url": "https://www.shl.com/solutions/products/assessments/agile-mindset-indicator/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Personality",
+    "description": "Measures adaptability, learning orientation, and change readiness."
+  },
+  {
+    "assessment_name": "Remote Work Readiness Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/remote-work-readiness-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Personality",
+    "description": "Evaluates self-discipline, communication style, and remote work fit."
+  },
+  {
+    "assessment_name": "Graduate Situational Judgement Test",
+    "url": "https://www.shl.com/solutions/products/assessments/graduate-situational-judgement-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Behavioral",
+    "description": "Measures workplace judgement for graduate-level candidates."
+  },
+  {
+    "assessment_name": "Management Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/management-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Behavioral",
+    "description": "Evaluates managerial decision-making and people-leadership."
+  },
+  {
+    "assessment_name": "Customer Service Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/customer-service-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Tests judgement in customer-facing scenarios."
+  },
+  {
+    "assessment_name": "Leadership Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/leadership-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Behavioral",
+    "description": "Scenario-based assessment of strategic leadership decisions."
+  },
+  {
+    "assessment_name": "Teamwork Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/teamwork-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Assesses collaboration and conflict-resolution in team situations."
+  },
+  {
+    "assessment_name": "Safety Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/safety-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Evaluates judgement in workplace-safety critical scenarios."
+  },
+  {
+    "assessment_name": "Supervisory Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/supervisory-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Tests first-line supervisor decision-making skills."
+  },
+  {
+    "assessment_name": "Sales Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/sales-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Evaluates consultative selling and client-management judgement."
+  },
+  {
+    "assessment_name": "Call Center Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/call-center-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Tests call-handling and de-escalation in contact-centre settings."
+  },
+  {
+    "assessment_name": "Entry-Level Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/entry-level-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Scenario-based assessment for school-leaver and apprentice hiring."
+  },
+  {
+    "assessment_name": "Retail Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/retail-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Situational test for retail customer service and operational roles."
+  },
+  {
+    "assessment_name": "Finance Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/finance-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Context-specific SJT for finance and accounting professionals."
+  },
+  {
+    "assessment_name": "IT Help-Desk Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/it-help-desk-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Evaluates prioritisation and communication in IT support scenarios."
+  },
+  {
+    "assessment_name": "Java Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/java-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Java programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Java Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/java-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Java programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Java Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/java-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Java programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Python Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/python-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Python programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Python Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/python-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Python programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Python Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/python-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Python programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "C# Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/c-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level C# programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "C# Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/c-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate C# programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "C# Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/c-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced C# programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "C++ Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/c-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level C++ programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "C++ Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/c-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate C++ programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "C++ Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/c-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced C++ programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "JavaScript Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/javascript-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level JavaScript programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "JavaScript Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/javascript-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate JavaScript programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "JavaScript Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/javascript-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced JavaScript programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "TypeScript Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/typescript-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level TypeScript programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "TypeScript Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/typescript-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate TypeScript programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "TypeScript Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/typescript-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced TypeScript programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Go Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/go-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Go programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Go Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/go-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Go programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Go Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/go-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Go programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Ruby Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/ruby-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Ruby programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Ruby Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/ruby-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Ruby programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Ruby Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/ruby-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Ruby programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "PHP Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/php-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level PHP programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "PHP Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/php-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate PHP programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "PHP Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/php-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced PHP programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Swift Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/swift-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Swift programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Swift Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/swift-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Swift programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Swift Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/swift-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Swift programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Kotlin Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/kotlin-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Kotlin programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Kotlin Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/kotlin-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Kotlin programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Kotlin Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/kotlin-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Kotlin programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Scala Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/scala-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Scala programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Scala Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/scala-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Scala programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Scala Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/scala-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Scala programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Rust Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/rust-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Rust programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Rust Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/rust-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Rust programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Rust Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/rust-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Rust programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "R Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/r-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level R programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "R Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/r-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate R programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "R Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/r-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced R programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "MATLAB Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/matlab-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level MATLAB programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "MATLAB Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/matlab-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate MATLAB programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "MATLAB Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/matlab-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced MATLAB programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Perl Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/perl-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Perl programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Perl Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/perl-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Perl programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Perl Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/perl-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Perl programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Objective-C Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/objective-c-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Objective-C programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Objective-C Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/objective-c-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Objective-C programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Objective-C Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/objective-c-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Objective-C programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Dart Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/dart-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Dart programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Dart Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/dart-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Dart programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Dart Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/dart-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Dart programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Lua Programming (Entry Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/lua-programming-entry-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests entry-level Lua programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Lua Programming (Mid Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/lua-programming-mid-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests intermediate Lua programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "Lua Programming (Senior Level)",
+    "url": "https://www.shl.com/solutions/products/assessments/lua-programming-senior-level/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests advanced Lua programming proficiency covering syntax, data structures, and problem-solving."
+  },
+  {
+    "assessment_name": "SQL Proficiency Test",
+    "url": "https://www.shl.com/solutions/products/assessments/sql-proficiency-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses query writing, data manipulation, and database design skills in SQL."
+  },
+  {
+    "assessment_name": "PostgreSQL Proficiency Test",
+    "url": "https://www.shl.com/solutions/products/assessments/postgresql-proficiency-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses query writing, data manipulation, and database design skills in PostgreSQL."
+  },
+  {
+    "assessment_name": "MySQL Proficiency Test",
+    "url": "https://www.shl.com/solutions/products/assessments/mysql-proficiency-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses query writing, data manipulation, and database design skills in MySQL."
+  },
+  {
+    "assessment_name": "MongoDB Proficiency Test",
+    "url": "https://www.shl.com/solutions/products/assessments/mongodb-proficiency-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses query writing, data manipulation, and database design skills in MongoDB."
+  },
+  {
+    "assessment_name": "Oracle SQL Proficiency Test",
+    "url": "https://www.shl.com/solutions/products/assessments/oracle-sql-proficiency-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses query writing, data manipulation, and database design skills in Oracle SQL."
+  },
+  {
+    "assessment_name": "AWS Solutions Architect Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/aws-solutions-architect-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in AWS Solutions Architect."
+  },
+  {
+    "assessment_name": "AWS Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/aws-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in AWS Developer."
+  },
+  {
+    "assessment_name": "Azure Fundamentals Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/azure-fundamentals-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Azure Fundamentals."
+  },
+  {
+    "assessment_name": "Azure Administrator Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/azure-administrator-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Azure Administrator."
+  },
+  {
+    "assessment_name": "Google Cloud Platform Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/google-cloud-platform-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Google Cloud Platform."
+  },
+  {
+    "assessment_name": "Docker & Containers Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/docker-containers-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Docker & Containers."
+  },
+  {
+    "assessment_name": "Kubernetes Administration Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/kubernetes-administration-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Kubernetes Administration."
+  },
+  {
+    "assessment_name": "Terraform IaC Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/terraform-iac-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Terraform IaC."
+  },
+  {
+    "assessment_name": "CI/CD Pipeline Design Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/ci-cd-pipeline-design-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in CI/CD Pipeline Design."
+  },
+  {
+    "assessment_name": "Linux System Administration Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/linux-system-administration-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Linux System Administration."
+  },
+  {
+    "assessment_name": "Ansible Automation Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/ansible-automation-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates practical knowledge and skills in Ansible Automation."
+  },
+  {
+    "assessment_name": "Tableau Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/tableau-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Tableau for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Power BI Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/power-bi-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Power BI for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Excel Advanced Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/excel-advanced-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Excel Advanced for business analytics and reporting."
+  },
+  {
+    "assessment_name": "SPSS Statistics Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/spss-statistics-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with SPSS Statistics for business analytics and reporting."
+  },
+  {
+    "assessment_name": "SAS Analytics Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/sas-analytics-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with SAS Analytics for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Google Analytics Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/google-analytics-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Google Analytics for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Looker Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/looker-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Looker for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Alteryx Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/alteryx-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Alteryx for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Data Modelling Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/data-modelling-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with Data Modelling for business analytics and reporting."
+  },
+  {
+    "assessment_name": "ETL Processes Skills Test",
+    "url": "https://www.shl.com/solutions/products/assessments/etl-processes-skills-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency with ETL Processes for business analytics and reporting."
+  },
+  {
+    "assessment_name": "Microsoft Word (Basic)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-word-basic/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Knowledge & Skills",
+    "description": "Basic-level proficiency test for Microsoft Word."
+  },
+  {
+    "assessment_name": "Microsoft Word (Intermediate)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-word-intermediate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Intermediate-level proficiency test for Microsoft Word."
+  },
+  {
+    "assessment_name": "Microsoft Word (Advanced)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-word-advanced/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Advanced-level proficiency test for Microsoft Word."
+  },
+  {
+    "assessment_name": "Microsoft Excel (Basic)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-excel-basic/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Knowledge & Skills",
+    "description": "Basic-level proficiency test for Microsoft Excel."
+  },
+  {
+    "assessment_name": "Microsoft Excel (Intermediate)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-excel-intermediate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Intermediate-level proficiency test for Microsoft Excel."
+  },
+  {
+    "assessment_name": "Microsoft Excel (Advanced)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-excel-advanced/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Advanced-level proficiency test for Microsoft Excel."
+  },
+  {
+    "assessment_name": "Microsoft PowerPoint (Basic)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-powerpoint-basic/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Knowledge & Skills",
+    "description": "Basic-level proficiency test for Microsoft PowerPoint."
+  },
+  {
+    "assessment_name": "Microsoft PowerPoint (Intermediate)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-powerpoint-intermediate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Intermediate-level proficiency test for Microsoft PowerPoint."
+  },
+  {
+    "assessment_name": "Microsoft PowerPoint (Advanced)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-powerpoint-advanced/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Advanced-level proficiency test for Microsoft PowerPoint."
+  },
+  {
+    "assessment_name": "Microsoft Outlook (Basic)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-outlook-basic/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Knowledge & Skills",
+    "description": "Basic-level proficiency test for Microsoft Outlook."
+  },
+  {
+    "assessment_name": "Microsoft Outlook (Intermediate)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-outlook-intermediate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Intermediate-level proficiency test for Microsoft Outlook."
+  },
+  {
+    "assessment_name": "Microsoft Outlook (Advanced)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-outlook-advanced/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Advanced-level proficiency test for Microsoft Outlook."
+  },
+  {
+    "assessment_name": "Microsoft Access (Basic)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-access-basic/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Knowledge & Skills",
+    "description": "Basic-level proficiency test for Microsoft Access."
+  },
+  {
+    "assessment_name": "Microsoft Access (Intermediate)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-access-intermediate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Intermediate-level proficiency test for Microsoft Access."
+  },
+  {
+    "assessment_name": "Microsoft Access (Advanced)",
+    "url": "https://www.shl.com/solutions/products/assessments/microsoft-access-advanced/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Advanced-level proficiency test for Microsoft Access."
+  },
+  {
+    "assessment_name": "React Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/react-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with React framework."
+  },
+  {
+    "assessment_name": "Angular Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/angular-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Angular framework."
+  },
+  {
+    "assessment_name": "Vue.js Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/vue-js-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Vue.js framework."
+  },
+  {
+    "assessment_name": "Node.js Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/node-js-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Node.js framework."
+  },
+  {
+    "assessment_name": "Django Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/django-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Django framework."
+  },
+  {
+    "assessment_name": "Spring Boot Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/spring-boot-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Spring Boot framework."
+  },
+  {
+    "assessment_name": "ASP.NET Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/asp-net-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with ASP.NET framework."
+  },
+  {
+    "assessment_name": "Ruby on Rails Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/ruby-on-rails-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Ruby on Rails framework."
+  },
+  {
+    "assessment_name": "Laravel Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/laravel-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Laravel framework."
+  },
+  {
+    "assessment_name": "Flask Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/flask-developer-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates practical development skills with Flask framework."
+  },
+  {
+    "assessment_name": "Machine Learning Fundamentals Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/machine-learning-fundamentals-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Machine Learning Fundamentals."
+  },
+  {
+    "assessment_name": "Deep Learning & Neural Networks Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/deep-learning-neural-networks-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Deep Learning & Neural Networks."
+  },
+  {
+    "assessment_name": "Natural Language Processing Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/natural-language-processing-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Natural Language Processing."
+  },
+  {
+    "assessment_name": "Computer Vision Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/computer-vision-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Computer Vision."
+  },
+  {
+    "assessment_name": "Statistical Analysis Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/statistical-analysis-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Statistical Analysis."
+  },
+  {
+    "assessment_name": "Feature Engineering Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/feature-engineering-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Feature Engineering."
+  },
+  {
+    "assessment_name": "Model Deployment & MLOps Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/model-deployment-mlops-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in Model Deployment & MLOps."
+  },
+  {
+    "assessment_name": "A/B Testing & Experimentation Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/a-b-testing-experimentation-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical understanding and applied skills in A/B Testing & Experimentation."
+  },
+  {
+    "assessment_name": "Cybersecurity Fundamentals Test",
+    "url": "https://www.shl.com/solutions/products/assessments/cybersecurity-fundamentals-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Cybersecurity Fundamentals."
+  },
+  {
+    "assessment_name": "Network Security Test",
+    "url": "https://www.shl.com/solutions/products/assessments/network-security-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Network Security."
+  },
+  {
+    "assessment_name": "Application Security Test",
+    "url": "https://www.shl.com/solutions/products/assessments/application-security-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Application Security."
+  },
+  {
+    "assessment_name": "Penetration Testing Test",
+    "url": "https://www.shl.com/solutions/products/assessments/penetration-testing-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Penetration Testing."
+  },
+  {
+    "assessment_name": "Cloud Security Test",
+    "url": "https://www.shl.com/solutions/products/assessments/cloud-security-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Cloud Security."
+  },
+  {
+    "assessment_name": "OWASP Top 10 Test",
+    "url": "https://www.shl.com/solutions/products/assessments/owasp-top-10-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in OWASP Top 10."
+  },
+  {
+    "assessment_name": "Incident Response Test",
+    "url": "https://www.shl.com/solutions/products/assessments/incident-response-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Incident Response."
+  },
+  {
+    "assessment_name": "Security Compliance Test",
+    "url": "https://www.shl.com/solutions/products/assessments/security-compliance-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge and practical skills in Security Compliance."
+  },
+  {
+    "assessment_name": "Typing Speed & Accuracy Test",
+    "url": "https://www.shl.com/solutions/products/assessments/typing-speed-accuracy-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Knowledge & Skills",
+    "description": "Measures typing speed (WPM) and error rate."
+  },
+  {
+    "assessment_name": "Data Entry Accuracy Test",
+    "url": "https://www.shl.com/solutions/products/assessments/data-entry-accuracy-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates speed and precision in alpha-numeric data entry."
+  },
+  {
+    "assessment_name": "10-Key Numeric Keypad Test",
+    "url": "https://www.shl.com/solutions/products/assessments/10-key-numeric-keypad-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency and speed with the numeric keypad."
+  },
+  {
+    "assessment_name": "Inbox Simulation - Manager",
+    "url": "https://www.shl.com/solutions/products/assessments/inbox-simulation-manager/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Role-play simulation managing an executive email inbox under time pressure."
+  },
+  {
+    "assessment_name": "Inbox Simulation - Graduate",
+    "url": "https://www.shl.com/solutions/products/assessments/inbox-simulation-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Entry-level inbox exercise testing prioritisation and communication."
+  },
+  {
+    "assessment_name": "Analysis Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/analysis-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Simulation",
+    "description": "Data analysis and report-writing simulation with business scenario."
+  },
+  {
+    "assessment_name": "Presentation Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/presentation-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Simulation",
+    "description": "Prepare and deliver a presentation on a business case topic."
+  },
+  {
+    "assessment_name": "Case Study Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/case-study-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Simulation",
+    "description": "Comprehensive case analysis requiring strategic recommendations."
+  },
+  {
+    "assessment_name": "Group Discussion Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/group-discussion-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Observed group discussion testing collaboration and influence."
+  },
+  {
+    "assessment_name": "Role Play - Customer Complaint",
+    "url": "https://www.shl.com/solutions/products/assessments/role-play-customer-complaint/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Simulation",
+    "description": "Simulated customer interaction resolving a service complaint."
+  },
+  {
+    "assessment_name": "Role Play - Coaching Conversation",
+    "url": "https://www.shl.com/solutions/products/assessments/role-play-coaching-conversation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Simulation",
+    "description": "Simulated coaching discussion with a direct report."
+  },
+  {
+    "assessment_name": "Planning & Scheduling Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/planning-scheduling-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Logistical planning simulation under resource constraints."
+  },
+  {
+    "assessment_name": "Fact-Finding Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/fact-finding-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Simulation",
+    "description": "Information-gathering simulation requiring structured questioning."
+  },
+  {
+    "assessment_name": "Written Report Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/written-report-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Produces a written analysis from a supplied data pack."
+  },
+  {
+    "assessment_name": "Budget Allocation Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/budget-allocation-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Financial planning exercise with competing priorities."
+  },
+  {
+    "assessment_name": "Crisis Management Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/crisis-management-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Scenario-based exercise managing an unfolding crisis."
+  },
+  {
+    "assessment_name": "Virtual Assessment Centre - Manager",
+    "url": "https://www.shl.com/solutions/products/assessments/virtual-assessment-centre-manager/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 60,
+    "test_type": "Simulation",
+    "description": "Multi-exercise virtual AC for managerial selection."
+  },
+  {
+    "assessment_name": "Virtual Assessment Centre - Graduate",
+    "url": "https://www.shl.com/solutions/products/assessments/virtual-assessment-centre-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 45,
+    "test_type": "Simulation",
+    "description": "Multi-exercise virtual AC for graduate schemes."
+  },
+  {
+    "assessment_name": "Negotiation Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/negotiation-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Simulation",
+    "description": "Interactive negotiation exercise testing persuasion and compromise."
+  },
+  {
+    "assessment_name": "Customer Contact Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/customer-contact-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Simulation",
+    "description": "Simulated live-chat customer-service interaction."
+  },
+  {
+    "assessment_name": "Project Prioritisation Exercise",
+    "url": "https://www.shl.com/solutions/products/assessments/project-prioritisation-exercise/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Multiple-project triage simulation under time constraints."
+  },
+  {
+    "assessment_name": "In-Tray Exercise (Proctored)",
+    "url": "https://www.shl.com/solutions/products/assessments/in-tray-exercise-proctored/",
+    "remote_support": "No",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Simulation",
+    "description": "Paper-based in-tray exercise under exam conditions."
+  },
+  {
+    "assessment_name": "Competency-Based Interview Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/competency-based-interview-simulation/",
+    "remote_support": "No",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Structured interview simulation with live assessor."
+  },
+  {
+    "assessment_name": "Biodata Questionnaire - Graduate",
+    "url": "https://www.shl.com/solutions/products/assessments/biodata-questionnaire-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Biodata & Interview",
+    "description": "Biographical data questionnaire predicting graduate job success."
+  },
+  {
+    "assessment_name": "Biodata Questionnaire - Sales",
+    "url": "https://www.shl.com/solutions/products/assessments/biodata-questionnaire-sales/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Biodata & Interview",
+    "description": "Biodata instrument validated for sales performance prediction."
+  },
+  {
+    "assessment_name": "Biodata Questionnaire - Customer Service",
+    "url": "https://www.shl.com/solutions/products/assessments/biodata-questionnaire-customer-service/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Biodata & Interview",
+    "description": "Biographical questionnaire for contact-centre hiring."
+  },
+  {
+    "assessment_name": "Structured Interview Guide - Manager",
+    "url": "https://www.shl.com/solutions/products/assessments/structured-interview-guide-manager/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Biodata & Interview",
+    "description": "Competency-based interview question bank for managerial roles."
+  },
+  {
+    "assessment_name": "Structured Interview Guide - Technical",
+    "url": "https://www.shl.com/solutions/products/assessments/structured-interview-guide-technical/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Biodata & Interview",
+    "description": "Technical interview framework with scoring rubrics."
+  },
+  {
+    "assessment_name": "Structured Interview Guide - Graduate",
+    "url": "https://www.shl.com/solutions/products/assessments/structured-interview-guide-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Biodata & Interview",
+    "description": "Competency interview framework for graduate recruitment."
+  },
+  {
+    "assessment_name": "Video Interview Scoring Framework",
+    "url": "https://www.shl.com/solutions/products/assessments/video-interview-scoring-framework/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Biodata & Interview",
+    "description": "Standardised scoring for asynchronous video interviews."
+  },
+  {
+    "assessment_name": "Universal Competency Framework Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/universal-competency-framework-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Development & 360",
+    "description": "Measures performance against SHL's universal competency model."
+  },
+  {
+    "assessment_name": "360 Feedback - Leadership",
+    "url": "https://www.shl.com/solutions/products/assessments/360-feedback-leadership/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Development & 360",
+    "description": "Multi-rater leadership feedback covering 12 competency areas."
+  },
+  {
+    "assessment_name": "360 Feedback - Manager",
+    "url": "https://www.shl.com/solutions/products/assessments/360-feedback-manager/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Development & 360",
+    "description": "Multi-rater feedback instrument for first and mid-level managers."
+  },
+  {
+    "assessment_name": "360 Feedback - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/assessments/360-feedback-individual-contributor/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 0,
+    "test_type": "Development & 360",
+    "description": "Multi-rater feedback for non-managerial professionals."
+  },
+  {
+    "assessment_name": "High Potential Identification",
+    "url": "https://www.shl.com/solutions/products/assessments/high-potential-identification/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Development & 360",
+    "description": "Assessment battery identifying high-potential talent."
+  },
+  {
+    "assessment_name": "Succession Planning Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/succession-planning-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Development & 360",
+    "description": "Evaluates readiness for next-level leadership roles."
+  },
+  {
+    "assessment_name": "Change Readiness Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/change-readiness-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Development & 360",
+    "description": "Measures adaptability and readiness for organisational change."
+  },
+  {
+    "assessment_name": "Learning Agility Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/learning-agility-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Development & 360",
+    "description": "Evaluates speed of acquiring new skills and adapting."
+  },
+  {
+    "assessment_name": "Career Development Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/career-development-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Development & 360",
+    "description": "Identifies strengths, development areas, and career interests."
+  },
+  {
+    "assessment_name": "Competency Gap Analysis",
+    "url": "https://www.shl.com/solutions/products/assessments/competency-gap-analysis/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Development & 360",
+    "description": "Maps current competencies against target-role requirements."
+  },
+  {
+    "assessment_name": "Financial Accounting Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/financial-accounting-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Job Knowledge",
+    "description": "Tests GAAP/IFRS accounting standards and financial statement analysis."
+  },
+  {
+    "assessment_name": "Banking Operations Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/banking-operations-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Validates knowledge of retail and commercial banking processes."
+  },
+  {
+    "assessment_name": "Insurance Domain Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/insurance-domain-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests understanding of underwriting, claims, and regulatory concepts."
+  },
+  {
+    "assessment_name": "Healthcare Compliance Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/healthcare-compliance-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Assesses HIPAA, patient safety, and healthcare regulation knowledge."
+  },
+  {
+    "assessment_name": "Pharmaceutical Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/pharmaceutical-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Job Knowledge",
+    "description": "Tests drug development, GMP, and regulatory affairs understanding."
+  },
+  {
+    "assessment_name": "Supply Chain Management Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/supply-chain-management-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Evaluates logistics, procurement, and inventory management."
+  },
+  {
+    "assessment_name": "HR & Employment Law Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/hr-employment-law-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests knowledge of labour law, HR policies, and compliance."
+  },
+  {
+    "assessment_name": "Marketing Fundamentals",
+    "url": "https://www.shl.com/solutions/products/assessments/marketing-fundamentals/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Assesses marketing strategy, branding, and digital marketing knowledge."
+  },
+  {
+    "assessment_name": "Digital Marketing Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/digital-marketing-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests SEO, SEM, social media, and analytics proficiency."
+  },
+  {
+    "assessment_name": "Project Management (PMP/PRINCE2)",
+    "url": "https://www.shl.com/solutions/products/assessments/project-management-pmp-prince2/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Job Knowledge",
+    "description": "Validates project management methodology and terminology."
+  },
+  {
+    "assessment_name": "Agile & Scrum Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/agile-scrum-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Tests Agile principles, Scrum framework, and Sprint planning."
+  },
+  {
+    "assessment_name": "ITIL Foundations Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/itil-foundations-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Assesses IT service management concepts and best practices."
+  },
+  {
+    "assessment_name": "Six Sigma Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/six-sigma-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests process improvement methodology and statistical tools."
+  },
+  {
+    "assessment_name": "Lean Manufacturing Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/lean-manufacturing-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Evaluates lean principles and waste-reduction techniques."
+  },
+  {
+    "assessment_name": "Real Estate Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/real-estate-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests property valuation, regulations, and market analysis."
+  },
+  {
+    "assessment_name": "Legal Knowledge - Contract Law",
+    "url": "https://www.shl.com/solutions/products/assessments/legal-knowledge-contract-law/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Job Knowledge",
+    "description": "Assesses understanding of contract formation and dispute resolution."
+  },
+  {
+    "assessment_name": "Telecommunications Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/telecommunications-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests networking protocols, 5G, and telecom infrastructure."
+  },
+  {
+    "assessment_name": "Automotive Engineering Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/automotive-engineering-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Job Knowledge",
+    "description": "Evaluates automotive systems, diagnostics, and safety standards."
+  },
+  {
+    "assessment_name": "Environmental Compliance Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/environmental-compliance-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Tests environmental regulations, sustainability, and auditing."
+  },
+  {
+    "assessment_name": "Retail Operations Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/retail-operations-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Assesses inventory management, POS systems, and merchandising."
+  },
+  {
+    "assessment_name": "English Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/english-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for English covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "French Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/french-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for French covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "German Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/german-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for German covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Spanish Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/spanish-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Spanish covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Mandarin Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/mandarin-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Mandarin covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Japanese Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/japanese-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Japanese covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Portuguese Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/portuguese-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Portuguese covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Arabic Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/arabic-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Arabic covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Hindi Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/hindi-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Hindi covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Dutch Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/dutch-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Dutch covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Business English Communication",
+    "url": "https://www.shl.com/solutions/products/assessments/business-english-communication/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Language",
+    "description": "Tests professional English for emails, reports, and presentations."
+  },
+  {
+    "assessment_name": "Technical Writing Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/technical-writing-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Evaluates ability to produce clear technical documentation."
+  },
+  {
+    "assessment_name": "Call Centre English Fluency",
+    "url": "https://www.shl.com/solutions/products/assessments/call-centre-english-fluency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Language",
+    "description": "Assesses spoken and written English for contact-centre roles."
+  },
+  {
+    "assessment_name": "Adaptive Numerical Reasoning (Graduate)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-numerical-reasoning-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Adaptive numerical reasoning calibrated for graduate difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Verbal Reasoning (Graduate)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-verbal-reasoning-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Adaptive verbal reasoning calibrated for graduate difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Inductive Reasoning (Graduate)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-inductive-reasoning-graduate/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 22,
+    "test_type": "Cognitive",
+    "description": "Adaptive inductive reasoning calibrated for graduate difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Numerical Reasoning (Professional)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-numerical-reasoning-professional/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Adaptive numerical reasoning calibrated for professional difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Verbal Reasoning (Professional)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-verbal-reasoning-professional/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Adaptive verbal reasoning calibrated for professional difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Inductive Reasoning (Professional)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-inductive-reasoning-professional/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 22,
+    "test_type": "Cognitive",
+    "description": "Adaptive inductive reasoning calibrated for professional difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Numerical Reasoning (Executive)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-numerical-reasoning-executive/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Adaptive numerical reasoning calibrated for executive difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Verbal Reasoning (Executive)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-verbal-reasoning-executive/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 20,
+    "test_type": "Cognitive",
+    "description": "Adaptive verbal reasoning calibrated for executive difficulty."
+  },
+  {
+    "assessment_name": "Adaptive Inductive Reasoning (Executive)",
+    "url": "https://www.shl.com/solutions/products/assessments/adaptive-inductive-reasoning-executive/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": 22,
+    "test_type": "Cognitive",
+    "description": "Adaptive inductive reasoning calibrated for executive difficulty."
+  },
+  {
+    "assessment_name": "Visual Perception Test",
+    "url": "https://www.shl.com/solutions/products/assessments/visual-perception-test/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Cognitive",
+    "description": "Measures ability to perceive and compare visual patterns quickly."
+  },
+  {
+    "assessment_name": "Attention to Detail - Numeric",
+    "url": "https://www.shl.com/solutions/products/assessments/attention-to-detail-numeric/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Cognitive",
+    "description": "Tests precision in detecting numeric discrepancies and errors."
+  },
+  {
+    "assessment_name": "Attention to Detail - Verbal",
+    "url": "https://www.shl.com/solutions/products/assessments/attention-to-detail-verbal/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 10,
+    "test_type": "Cognitive",
+    "description": "Tests precision in detecting spelling, grammar, and terminology errors."
+  },
+  {
+    "assessment_name": "Systems Thinking Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/systems-thinking-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Cognitive",
+    "description": "Evaluates ability to understand complex interdependent systems."
+  },
+  {
+    "assessment_name": "Strategic Reasoning Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/strategic-reasoning-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Cognitive",
+    "description": "Tests high-level strategic thinking and business acumen."
+  },
+  {
+    "assessment_name": "Quantitative Problem Solving",
+    "url": "https://www.shl.com/solutions/products/assessments/quantitative-problem-solving/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Cognitive",
+    "description": "Complex mathematical and statistical problem-solving tasks."
+  },
+  {
+    "assessment_name": "Manual Testing Fundamentals Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/manual-testing-fundamentals-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency in Manual Testing Fundamentals methodologies and tools."
+  },
+  {
+    "assessment_name": "Selenium Automation Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/selenium-automation-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency in Selenium Automation methodologies and tools."
+  },
+  {
+    "assessment_name": "API Testing (Postman) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/api-testing-postman-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency in API Testing (Postman) methodologies and tools."
+  },
+  {
+    "assessment_name": "Performance Testing (JMeter) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/performance-testing-jmeter-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency in Performance Testing (JMeter) methodologies and tools."
+  },
+  {
+    "assessment_name": "Mobile App Testing Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/mobile-app-testing-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency in Mobile App Testing methodologies and tools."
+  },
+  {
+    "assessment_name": "iOS Development (Swift) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/ios-development-swift-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests practical development skills in iOS Development (Swift)."
+  },
+  {
+    "assessment_name": "Android Development (Kotlin) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/android-development-kotlin-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests practical development skills in Android Development (Kotlin)."
+  },
+  {
+    "assessment_name": "React Native Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/react-native-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests practical development skills in React Native."
+  },
+  {
+    "assessment_name": "Flutter Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/flutter-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests practical development skills in Flutter."
+  },
+  {
+    "assessment_name": "Xamarin Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/xamarin-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests practical development skills in Xamarin."
+  },
+  {
+    "assessment_name": "Apache Spark Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/apache-spark-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates knowledge and practical skills in Apache Spark."
+  },
+  {
+    "assessment_name": "Apache Kafka Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/apache-kafka-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates knowledge and practical skills in Apache Kafka."
+  },
+  {
+    "assessment_name": "Hadoop Ecosystem Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/hadoop-ecosystem-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates knowledge and practical skills in Hadoop Ecosystem."
+  },
+  {
+    "assessment_name": "Snowflake Data Warehouse Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/snowflake-data-warehouse-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates knowledge and practical skills in Snowflake Data Warehouse."
+  },
+  {
+    "assessment_name": "dbt (Data Build Tool) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/dbt-data-build-tool-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates knowledge and practical skills in dbt (Data Build Tool)."
+  },
+  {
+    "assessment_name": "Airflow Pipeline Design Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/airflow-pipeline-design-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Knowledge & Skills",
+    "description": "Validates knowledge and practical skills in Airflow Pipeline Design."
+  },
+  {
+    "assessment_name": "Cisco Networking (CCNA) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/cisco-networking-ccna-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical and applied knowledge in Cisco Networking (CCNA)."
+  },
+  {
+    "assessment_name": "Network Troubleshooting Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/network-troubleshooting-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical and applied knowledge in Network Troubleshooting."
+  },
+  {
+    "assessment_name": "Windows Server Administration Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/windows-server-administration-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical and applied knowledge in Windows Server Administration."
+  },
+  {
+    "assessment_name": "VMware Virtualisation Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/vmware-virtualisation-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical and applied knowledge in VMware Virtualisation."
+  },
+  {
+    "assessment_name": "Load Balancing & CDN Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/load-balancing-cdn-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests theoretical and applied knowledge in Load Balancing & CDN."
+  },
+  {
+    "assessment_name": "Figma UI Design Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/figma-ui-design-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency with Figma UI Design."
+  },
+  {
+    "assessment_name": "Adobe Photoshop Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/adobe-photoshop-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency with Adobe Photoshop."
+  },
+  {
+    "assessment_name": "Adobe Illustrator Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/adobe-illustrator-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency with Adobe Illustrator."
+  },
+  {
+    "assessment_name": "UX Research Methods Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/ux-research-methods-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency with UX Research Methods."
+  },
+  {
+    "assessment_name": "Accessibility (WCAG) Compliance Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/accessibility-wcag-compliance-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates proficiency with Accessibility (WCAG) Compliance."
+  },
+  {
+    "assessment_name": "Business Requirements Analysis Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/business-requirements-analysis-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests knowledge and application of Business Requirements Analysis."
+  },
+  {
+    "assessment_name": "Process Mapping (BPMN) Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/process-mapping-bpmn-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests knowledge and application of Process Mapping (BPMN)."
+  },
+  {
+    "assessment_name": "Stakeholder Management Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/stakeholder-management-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests knowledge and application of Stakeholder Management."
+  },
+  {
+    "assessment_name": "User Story Writing Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/user-story-writing-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests knowledge and application of User Story Writing."
+  },
+  {
+    "assessment_name": "Data Visualisation Best Practices Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/data-visualisation-best-practices-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Knowledge & Skills",
+    "description": "Tests knowledge and application of Data Visualisation Best Practices."
+  },
+  {
+    "assessment_name": "Big Five – Conscientiousness Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/big-five-conscientiousness-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Personality",
+    "description": "Focused assessment of conscientiousness personality dimension."
+  },
+  {
+    "assessment_name": "Big Five – Extraversion Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/big-five-extraversion-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Personality",
+    "description": "Focused assessment of extraversion personality dimension."
+  },
+  {
+    "assessment_name": "Big Five – Agreeableness Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/big-five-agreeableness-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Personality",
+    "description": "Focused assessment of agreeableness personality dimension."
+  },
+  {
+    "assessment_name": "Big Five – Openness to Experience Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/big-five-openness-to-experience-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Personality",
+    "description": "Focused assessment of openness to experience personality dimension."
+  },
+  {
+    "assessment_name": "Big Five – Emotional Stability Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/big-five-emotional-stability-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 8,
+    "test_type": "Personality",
+    "description": "Focused assessment of emotional stability personality dimension."
+  },
+  {
+    "assessment_name": "Conflict Management Style Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/conflict-management-style-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Identifies preferred conflict-handling approach using Thomas-Kilmann model."
+  },
+  {
+    "assessment_name": "Communication Style Inventory",
+    "url": "https://www.shl.com/solutions/products/assessments/communication-style-inventory/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Behavioral",
+    "description": "Evaluates assertive, analytical, amiable, and expressive communication styles."
+  },
+  {
+    "assessment_name": "Decision-Making Style Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/decision-making-style-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Measures rational vs intuitive decision-making preferences."
+  },
+  {
+    "assessment_name": "Time Management Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/time-management-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Behavioral",
+    "description": "Evaluates planning, prioritisation, and delegation skills."
+  },
+  {
+    "assessment_name": "Stress Management Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/stress-management-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 12,
+    "test_type": "Behavioral",
+    "description": "Identifies coping strategies and stress tolerance under pressure."
+  },
+  {
+    "assessment_name": "Ethical Reasoning Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/ethical-reasoning-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Tests moral reasoning and ethical decision-making in workplace scenarios."
+  },
+  {
+    "assessment_name": "Cross-Cultural Competency Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/cross-cultural-competency-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Evaluates cultural awareness and ability to work across diverse teams."
+  },
+  {
+    "assessment_name": "Negotiation Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/negotiation-skills-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Measures negotiation strategy, persuasion, and deal-closing ability."
+  },
+  {
+    "assessment_name": "Presentation Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/assessments/presentation-skills-assessment/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Evaluates clarity, structure, and confidence in delivering presentations."
+  },
+  {
+    "assessment_name": "Energy & Utilities Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/energy-utilities-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests power generation, distribution, and regulatory knowledge."
+  },
+  {
+    "assessment_name": "Aviation Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/aviation-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Evaluates aviation regulations, safety protocols, and operations."
+  },
+  {
+    "assessment_name": "Hospitality Management Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/hospitality-management-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Tests hotel operations, guest service, and revenue management."
+  },
+  {
+    "assessment_name": "Education & Training Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/education-training-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Assesses pedagogy, curriculum design, and learning theory."
+  },
+  {
+    "assessment_name": "Construction & Civil Engineering",
+    "url": "https://www.shl.com/solutions/products/assessments/construction-civil-engineering/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests building codes, project planning, and structural concepts."
+  },
+  {
+    "assessment_name": "Food Safety & Quality (HACCP)",
+    "url": "https://www.shl.com/solutions/products/assessments/food-safety-quality-haccp/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Validates food safety, HACCP principles, and hygiene standards."
+  },
+  {
+    "assessment_name": "Logistics & Freight Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/logistics-freight-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Tests shipping regulations, customs, and supply chain logistics."
+  },
+  {
+    "assessment_name": "Media & Advertising Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/media-advertising-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Evaluates media planning, advertising strategy, and campaign measurement."
+  },
+  {
+    "assessment_name": "Public Sector Administration",
+    "url": "https://www.shl.com/solutions/products/assessments/public-sector-administration/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Tests knowledge of governance, public policy, and administrative procedures."
+  },
+  {
+    "assessment_name": "Nonprofit Management Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/nonprofit-management-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Evaluates fundraising, grant management, and stakeholder engagement."
+  },
+  {
+    "assessment_name": "Venture Capital & Private Equity",
+    "url": "https://www.shl.com/solutions/products/assessments/venture-capital-private-equity/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Job Knowledge",
+    "description": "Tests deal evaluation, term sheets, and portfolio management knowledge."
+  },
+  {
+    "assessment_name": "Management Consulting Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/management-consulting-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Assesses problem structuring, hypothesis-driven analysis, and case methodology."
+  },
+  {
+    "assessment_name": "Actuarial Science Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/actuarial-science-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 40,
+    "test_type": "Job Knowledge",
+    "description": "Tests probability, risk modelling, and insurance mathematics."
+  },
+  {
+    "assessment_name": "Compliance & Anti-Money Laundering",
+    "url": "https://www.shl.com/solutions/products/assessments/compliance-anti-money-laundering/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Job Knowledge",
+    "description": "Validates AML, KYC, and financial regulatory compliance."
+  },
+  {
+    "assessment_name": "Data Privacy (GDPR) Knowledge",
+    "url": "https://www.shl.com/solutions/products/assessments/data-privacy-gdpr-knowledge/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Job Knowledge",
+    "description": "Tests understanding of GDPR principles, rights, and obligations."
+  },
+  {
+    "assessment_name": "Supply Chain Disruption Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/supply-chain-disruption-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Scenario-based exercise managing a multi-stage supply chain disruption."
+  },
+  {
+    "assessment_name": "IT Incident Management Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/it-incident-management-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Simulated major IT outage requiring triage, communication, and resolution."
+  },
+  {
+    "assessment_name": "Sales Pitch Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/sales-pitch-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Simulation",
+    "description": "Prepare and deliver a sales pitch for a new product."
+  },
+  {
+    "assessment_name": "Merger Integration Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/merger-integration-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 35,
+    "test_type": "Simulation",
+    "description": "Strategic simulation of post-acquisition integration planning."
+  },
+  {
+    "assessment_name": "New Market Entry Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/new-market-entry-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "Develop a market-entry strategy for an unfamiliar geography."
+  },
+  {
+    "assessment_name": "Workforce Planning Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/workforce-planning-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Plan headcount allocation under budget and talent constraints."
+  },
+  {
+    "assessment_name": "Regulatory Audit Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/regulatory-audit-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Prepare for and respond to a mock regulatory audit."
+  },
+  {
+    "assessment_name": "Product Launch Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/product-launch-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Simulation",
+    "description": "End-to-end simulation managing a product launch across teams."
+  },
+  {
+    "assessment_name": "Quality Improvement Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/quality-improvement-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Simulation",
+    "description": "Root-cause analysis and improvement planning for quality defects."
+  },
+  {
+    "assessment_name": "Remote Team Coordination Simulation",
+    "url": "https://www.shl.com/solutions/products/assessments/remote-team-coordination-simulation/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Simulation",
+    "description": "Manage a distributed team through a complex deliverable."
+  },
+  {
+    "assessment_name": "Healthcare Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/healthcare-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Scenario-based assessment for clinical and healthcare roles."
+  },
+  {
+    "assessment_name": "Engineering Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/engineering-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Evaluates judgement in engineering project and safety scenarios."
+  },
+  {
+    "assessment_name": "Logistics Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/logistics-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Tests problem-solving in warehouse and distribution situations."
+  },
+  {
+    "assessment_name": "Hospitality Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/hospitality-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Assesses guest-service and operational decision-making."
+  },
+  {
+    "assessment_name": "Education Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/education-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Tests classroom management and student engagement decisions."
+  },
+  {
+    "assessment_name": "Construction Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/construction-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 15,
+    "test_type": "Behavioral",
+    "description": "Evaluates site safety, coordination, and stakeholder decisions."
+  },
+  {
+    "assessment_name": "Legal Professional Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/legal-professional-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Tests ethics and judgement in legal practice contexts."
+  },
+  {
+    "assessment_name": "Consulting Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/assessments/consulting-situational-judgement/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 20,
+    "test_type": "Behavioral",
+    "description": "Scenario-based test for client advisory and engagement management."
+  },
+  {
+    "assessment_name": "Korean Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/korean-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Korean covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Turkish Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/turkish-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Turkish covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Thai Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/thai-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Thai covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Vietnamese Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/vietnamese-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Vietnamese covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Polish Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/polish-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Polish covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Swedish Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/swedish-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Swedish covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Czech Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/czech-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Czech covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Indonesian Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/assessments/indonesian-language-proficiency/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 25,
+    "test_type": "Language",
+    "description": "Standardised proficiency test for Indonesian covering reading, writing, and comprehension."
+  },
+  {
+    "assessment_name": "Bilingual Proficiency Assessment (EN/ES)",
+    "url": "https://www.shl.com/solutions/products/assessments/bilingual-proficiency-assessment-en-es/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Language",
+    "description": "Evaluates bilingual competence in English and Spanish for customer-facing roles."
+  },
+  {
+    "assessment_name": "Bilingual Proficiency Assessment (EN/FR)",
+    "url": "https://www.shl.com/solutions/products/assessments/bilingual-proficiency-assessment-en-fr/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": 30,
+    "test_type": "Language",
+    "description": "Evaluates bilingual competence in English and French for customer-facing roles."
+  }
+]

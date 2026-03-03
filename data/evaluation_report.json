@@ -1,0 +1,444 @@
+{
+  "mean_recall_at_k": 0.6428,
+  "k": 10,
+  "num_queries": 15,
+  "per_query": [
+    {
+      "query": "I need a cognitive ability test for a graduate software engineer",
+      "recall_at_k": 0.3333,
+      "retrieved": [
+        "General Ability Screening",
+        "Verify G+ (Interactive)",
+        "Adaptive Verbal Reasoning (Graduate)",
+        "Graduate Verbal Reasoning",
+        "Adaptive Inductive Reasoning (Graduate)",
+        "Calculation Ability",
+        "Graduate Inductive Reasoning",
+        "Adaptive Numerical Reasoning (Graduate)",
+        "Verify Numerical Reasoning",
+        "Error Checking"
+      ],
+      "expected": [
+        "Verify G+ (Interactive)",
+        "Verify Interactive - Numerical Reasoning",
+        "Verify Interactive - Inductive Reasoning",
+        "Graduate Numerical Reasoning",
+        "Graduate Verbal Reasoning",
+        "Abstract Reasoning"
+      ],
+      "hits": [
+        "Verify G+ (Interactive)",
+        "Graduate Verbal Reasoning"
+      ]
+    },
+    {
+      "query": "Personality assessment for a sales manager",
+      "recall_at_k": 0.6,
+      "retrieved": [
+        "Sales Personality Questionnaire",
+        "Biodata Questionnaire - Sales",
+        "Customer Contact Styles Questionnaire (CCSQ)",
+        "Leadership Impact Assessment",
+        "Big Five \u2013 Agreeableness Assessment",
+        "OPQ32r",
+        "Sales Situational Judgement",
+        "Big Five \u2013 Emotional Stability Assessment",
+        "Big Five \u2013 Openness to Experience Assessment",
+        "Big Five \u2013 Extraversion Assessment"
+      ],
+      "expected": [
+        "OPQ32r",
+        "Sales Personality Questionnaire",
+        "Motivation Questionnaire (MQ)",
+        "Management Situational Judgement",
+        "Leadership Impact Assessment"
+      ],
+      "hits": [
+        "OPQ32r",
+        "Sales Personality Questionnaire",
+        "Leadership Impact Assessment"
+      ]
+    },
+    {
+      "query": "Python programming test for a data analyst",
+      "recall_at_k": 0.6,
+      "retrieved": [
+        "Python Programming (Senior Level)",
+        "Python Programming (Mid Level)",
+        "Python Programming (Entry Level)",
+        "R Programming (Senior Level)",
+        "R Programming (Entry Level)",
+        "R Programming (Mid Level)",
+        "MATLAB Programming (Senior Level)",
+        "Go Programming (Senior Level)",
+        "Go Programming (Mid Level)",
+        "C++ Programming (Entry Level)"
+      ],
+      "expected": [
+        "Python Programming (Entry Level)",
+        "Python Programming (Mid Level)",
+        "Python Programming (Senior Level)",
+        "Data Modelling Skills Test",
+        "Statistical Analysis Assessment"
+      ],
+      "hits": [
+        "Python Programming (Entry Level)",
+        "Python Programming (Mid Level)",
+        "Python Programming (Senior Level)"
+      ]
+    },
+    {
+      "query": "Customer service assessment for a call centre representative",
+      "recall_at_k": 1.0,
+      "retrieved": [
+        "Customer Service Situational Judgement",
+        "Call Centre English Fluency",
+        "Biodata Questionnaire - Customer Service",
+        "Call Center Situational Judgement",
+        "Customer Contact Simulation",
+        "Role Play - Customer Complaint",
+        "Customer Contact Styles Questionnaire (CCSQ)",
+        "Retail Situational Judgement",
+        "Bilingual Proficiency Assessment (EN/FR)",
+        "Hospitality Situational Judgement"
+      ],
+      "expected": [
+        "Customer Contact Styles Questionnaire (CCSQ)",
+        "Customer Service Situational Judgement",
+        "Call Center Situational Judgement",
+        "Call Centre English Fluency",
+        "Customer Contact Simulation"
+      ],
+      "hits": [
+        "Customer Contact Styles Questionnaire (CCSQ)",
+        "Customer Service Situational Judgement",
+        "Call Center Situational Judgement",
+        "Call Centre English Fluency",
+        "Customer Contact Simulation"
+      ]
+    },
+    {
+      "query": "Leadership development assessment for senior executives",
+      "recall_at_k": 0.6667,
+      "retrieved": [
+        "Succession Planning Assessment",
+        "Leadership Situational Judgement",
+        "Leadership Impact Assessment",
+        "360 Feedback - Leadership",
+        "Career Development Assessment",
+        "Management Situational Judgement",
+        "Android Development (Kotlin) Assessment",
+        "Angular Developer Assessment",
+        "Laravel Developer Assessment",
+        "Time Management Assessment"
+      ],
+      "expected": [
+        "Leadership Impact Assessment",
+        "Leadership Situational Judgement",
+        "360 Feedback - Leadership",
+        "Succession Planning Assessment",
+        "High Potential Identification",
+        "OPQ32r"
+      ],
+      "hits": [
+        "Leadership Impact Assessment",
+        "Leadership Situational Judgement",
+        "360 Feedback - Leadership",
+        "Succession Planning Assessment"
+      ]
+    },
+    {
+      "query": "Java developer skills test for mid-level backend engineering position",
+      "recall_at_k": 0.6,
+      "retrieved": [
+        "Java Programming (Mid Level)",
+        "Java Programming (Senior Level)",
+        "Java Programming (Entry Level)",
+        "JavaScript Programming (Mid Level)",
+        "Go Programming (Mid Level)",
+        "C# Programming (Mid Level)",
+        "Kotlin Programming (Mid Level)",
+        "Dart Programming (Mid Level)",
+        "Scala Programming (Mid Level)",
+        "Ruby Programming (Mid Level)"
+      ],
+      "expected": [
+        "Java Programming (Mid Level)",
+        "Java Programming (Senior Level)",
+        "Java Programming (Entry Level)",
+        "Spring Boot Developer Assessment",
+        "SQL Proficiency Test"
+      ],
+      "hits": [
+        "Java Programming (Mid Level)",
+        "Java Programming (Senior Level)",
+        "Java Programming (Entry Level)"
+      ]
+    },
+    {
+      "query": "Numerical and verbal reasoning for finance graduates",
+      "recall_at_k": 0.5,
+      "retrieved": [
+        "Graduate Numerical Reasoning",
+        "Verify Numerical Reasoning",
+        "Adaptive Numerical Reasoning (Graduate)",
+        "Adaptive Numerical Reasoning (Professional)",
+        "Graduate Verbal Reasoning",
+        "Adaptive Verbal Reasoning (Graduate)",
+        "Verify Numerical Reasoning (US Norms)",
+        "Verify Interactive - Numerical Reasoning",
+        "Critical Reasoning Test Battery - Numerical",
+        "Finance Situational Judgement"
+      ],
+      "expected": [
+        "Verify Interactive - Numerical Reasoning",
+        "Verify Interactive - Verbal Reasoning",
+        "Graduate Numerical Reasoning",
+        "Graduate Verbal Reasoning",
+        "Financial Accounting Knowledge",
+        "Data Interpretation"
+      ],
+      "hits": [
+        "Verify Interactive - Numerical Reasoning",
+        "Graduate Numerical Reasoning",
+        "Graduate Verbal Reasoning"
+      ]
+    },
+    {
+      "query": "Situational judgement test for a retail store supervisor",
+      "recall_at_k": 0.8,
+      "retrieved": [
+        "Retail Situational Judgement",
+        "Supervisory Situational Judgement",
+        "Customer Service Situational Judgement",
+        "Graduate Situational Judgement Test",
+        "Logistics Situational Judgement",
+        "Consulting Situational Judgement",
+        "Safety Situational Judgement",
+        "Sales Situational Judgement",
+        "Legal Professional Situational Judgement",
+        "Management Situational Judgement"
+      ],
+      "expected": [
+        "Supervisory Situational Judgement",
+        "Retail Situational Judgement",
+        "Retail Operations Knowledge",
+        "Management Situational Judgement",
+        "Customer Service Situational Judgement"
+      ],
+      "hits": [
+        "Supervisory Situational Judgement",
+        "Retail Situational Judgement",
+        "Management Situational Judgement",
+        "Customer Service Situational Judgement"
+      ]
+    },
+    {
+      "query": "Cloud architect assessment for AWS and Azure skills",
+      "recall_at_k": 0.8333,
+      "retrieved": [
+        "AWS Solutions Architect Assessment",
+        "AWS Developer Assessment",
+        "Azure Fundamentals Assessment",
+        "Azure Administrator Assessment",
+        "Google Cloud Platform Assessment",
+        "Cloud Security Test",
+        "Terraform IaC Assessment",
+        "Hadoop Ecosystem Assessment",
+        "Node.js Developer Assessment",
+        "Laravel Developer Assessment"
+      ],
+      "expected": [
+        "AWS Solutions Architect Assessment",
+        "AWS Developer Assessment",
+        "Azure Fundamentals Assessment",
+        "Azure Administrator Assessment",
+        "Google Cloud Platform Assessment",
+        "Docker & Containers Assessment"
+      ],
+      "hits": [
+        "AWS Solutions Architect Assessment",
+        "AWS Developer Assessment",
+        "Azure Fundamentals Assessment",
+        "Azure Administrator Assessment",
+        "Google Cloud Platform Assessment"
+      ]
+    },
+    {
+      "query": "Microsoft Office proficiency tests for an administrative assistant",
+      "recall_at_k": 0.375,
+      "retrieved": [
+        "Microsoft Word (Advanced)",
+        "Microsoft Word (Intermediate)",
+        "Microsoft Access (Intermediate)",
+        "Microsoft Access (Advanced)",
+        "Microsoft Word (Basic)",
+        "Microsoft PowerPoint (Advanced)",
+        "Microsoft PowerPoint (Intermediate)",
+        "Microsoft Access (Basic)",
+        "Microsoft Excel (Advanced)",
+        "Microsoft Excel (Intermediate)"
+      ],
+      "expected": [
+        "Microsoft Excel (Basic)",
+        "Microsoft Excel (Intermediate)",
+        "Microsoft Word (Basic)",
+        "Microsoft Word (Intermediate)",
+        "Microsoft Outlook (Basic)",
+        "Microsoft PowerPoint (Basic)",
+        "Typing Speed & Accuracy Test",
+        "Data Entry Accuracy Test"
+      ],
+      "hits": [
+        "Microsoft Excel (Intermediate)",
+        "Microsoft Word (Basic)",
+        "Microsoft Word (Intermediate)"
+      ]
+    },
+    {
+      "query": "Emotional intelligence and teamwork assessment for a project manager",
+      "recall_at_k": 0.8,
+      "retrieved": [
+        "Emotional Intelligence Questionnaire",
+        "Big Five \u2013 Emotional Stability Assessment",
+        "Teamwork Situational Judgement",
+        "Project Management (PMP/PRINCE2)",
+        "Team Impact Assessment",
+        "Leadership Situational Judgement",
+        "Engineering Situational Judgement",
+        "Management Situational Judgement",
+        "Critical Reasoning Test Battery - Verbal",
+        "Time Management Assessment"
+      ],
+      "expected": [
+        "Emotional Intelligence Questionnaire",
+        "Team Impact Assessment",
+        "Teamwork Situational Judgement",
+        "Project Management (PMP/PRINCE2)",
+        "Communication Style Inventory"
+      ],
+      "hits": [
+        "Emotional Intelligence Questionnaire",
+        "Team Impact Assessment",
+        "Teamwork Situational Judgement",
+        "Project Management (PMP/PRINCE2)"
+      ]
+    },
+    {
+      "query": "Cybersecurity skills test for an information security analyst",
+      "recall_at_k": 0.8333,
+      "retrieved": [
+        "Cybersecurity Fundamentals Test",
+        "Network Security Test",
+        "Security Compliance Test",
+        "Application Security Test",
+        "Cloud Security Test",
+        "Penetration Testing Test",
+        "SAS Analytics Skills Test",
+        "SPSS Statistics Skills Test",
+        "Statistical Analysis Assessment",
+        "Google Analytics Skills Test"
+      ],
+      "expected": [
+        "Cybersecurity Fundamentals Test",
+        "Network Security Test",
+        "Application Security Test",
+        "Penetration Testing Test",
+        "Cloud Security Test",
+        "OWASP Top 10 Test"
+      ],
+      "hits": [
+        "Cybersecurity Fundamentals Test",
+        "Network Security Test",
+        "Application Security Test",
+        "Penetration Testing Test",
+        "Cloud Security Test"
+      ]
+    },
+    {
+      "query": "Healthcare compliance and safety assessment for hospital staff",
+      "recall_at_k": 1.0,
+      "retrieved": [
+        "Healthcare Compliance Knowledge",
+        "Healthcare Situational Judgement",
+        "Safety Situational Judgement",
+        "Dependability & Safety Instrument (DSI)",
+        "Security Compliance Test",
+        "Accessibility (WCAG) Compliance Assessment",
+        "Food Safety & Quality (HACCP)",
+        "Compliance & Anti-Money Laundering",
+        "Aviation Knowledge",
+        "Environmental Compliance Knowledge"
+      ],
+      "expected": [
+        "Healthcare Compliance Knowledge",
+        "Healthcare Situational Judgement",
+        "Safety Situational Judgement",
+        "Dependability & Safety Instrument (DSI)",
+        "Food Safety & Quality (HACCP)"
+      ],
+      "hits": [
+        "Healthcare Compliance Knowledge",
+        "Healthcare Situational Judgement",
+        "Safety Situational Judgement",
+        "Dependability & Safety Instrument (DSI)",
+        "Food Safety & Quality (HACCP)"
+      ]
+    },
+    {
+      "query": "Data science and machine learning assessment for a research scientist",
+      "recall_at_k": 0.5,
+      "retrieved": [
+        "Machine Learning Fundamentals Assessment",
+        "Deep Learning & Neural Networks Assessment",
+        "UX Research Methods Assessment",
+        "Statistical Analysis Assessment",
+        "dbt (Data Build Tool) Assessment",
+        "Data Modelling Skills Test",
+        "Snowflake Data Warehouse Assessment",
+        "Apache Spark Assessment",
+        "Google Analytics Skills Test",
+        "Scala Programming (Entry Level)"
+      ],
+      "expected": [
+        "Machine Learning Fundamentals Assessment",
+        "Deep Learning & Neural Networks Assessment",
+        "Natural Language Processing Assessment",
+        "Statistical Analysis Assessment",
+        "Python Programming (Senior Level)",
+        "R Programming (Senior Level)"
+      ],
+      "hits": [
+        "Machine Learning Fundamentals Assessment",
+        "Deep Learning & Neural Networks Assessment",
+        "Statistical Analysis Assessment"
+      ]
+    },
+    {
+      "query": "Mechanical comprehension test for an engineering technician",
+      "recall_at_k": 0.2,
+      "retrieved": [
+        "Mechanical Comprehension",
+        "Verbal Comprehension",
+        "Feature Engineering Assessment",
+        "Verify Verbal Reasoning",
+        "Numerical Comprehension",
+        "English Language Proficiency",
+        "Swedish Language Proficiency",
+        "French Language Proficiency",
+        "German Language Proficiency",
+        "Manual Testing Fundamentals Assessment"
+      ],
+      "expected": [
+        "Mechanical Comprehension",
+        "Spatial Reasoning",
+        "Verify Interactive - Inductive Reasoning",
+        "Construction Situational Judgement",
+        "Automotive Engineering Knowledge"
+      ],
+      "hits": [
+        "Mechanical Comprehension"
+      ]
+    }
+  ]
+}
