@@ -17,7 +17,7 @@ import logging, re, sys, os
 from pathlib import Path
 from typing import Optional
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
@@ -147,25 +147,15 @@ async def health_check():
     return rec.health()
 
 
-@app.post(
-    "/recommend",
-    response_model=RecommendResponse,
-    tags=["Recommendation"],
-    summary="Get assessment recommendations",
-)
-async def recommend(body: RecommendRequest):
-    """
-    Accept a natural-language query, job-description text, or JD URL
-    and return up to *top_k* relevant SHL individual test solutions.
-    """
+async def _run_recommend(query_text: str, top_k: int) -> RecommendResponse:
+    """Shared logic for both GET and POST recommend endpoints."""
     rec = _get_recommender()
-    query = await _resolve_query(body.query)
+    query = await _resolve_query(query_text)
 
-    results = rec.recommend(query, top_k=body.top_k)
+    results = rec.recommend(query, top_k=top_k)
     if not results:
         return RecommendResponse(recommended_assessments=[])
 
-    # Map internal keys → response schema
     assessments = []
     for r in results:
         assessments.append(
@@ -180,3 +170,42 @@ async def recommend(body: RecommendRequest):
             )
         )
     return RecommendResponse(recommended_assessments=assessments)
+
+
+@app.post(
+    "/recommend",
+    response_model=RecommendResponse,
+    tags=["Recommendation"],
+    summary="Get assessment recommendations (POST)",
+)
+async def recommend_post(body: RecommendRequest):
+    """
+    Accept a natural-language query, job-description text, or JD URL
+    and return up to *top_k* relevant SHL individual test solutions.
+
+    **Request body**: `{"query": "...", "top_k": 10}`
+    """
+    return await _run_recommend(body.query, body.top_k)
+
+
+@app.get(
+    "/recommend",
+    response_model=RecommendResponse,
+    tags=["Recommendation"],
+    summary="Get assessment recommendations (GET)",
+)
+async def recommend_get(
+    query: str = Query(
+        ..., description="Natural-language query, JD text, or JD URL."
+    ),
+    top_k: int = Query(
+        default=10, ge=1, le=20,
+        description="Number of recommendations (1-20).",
+    ),
+):
+    """
+    Convenience GET endpoint.
+
+    Example: `/recommend?query=data+analyst&top_k=5`
+    """
+    return await _run_recommend(query, top_k)
